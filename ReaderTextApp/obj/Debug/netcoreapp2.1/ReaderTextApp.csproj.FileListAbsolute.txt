@@ -1,0 +1,11 @@
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\bin\Debug\netcoreapp2.1\ReaderTextApp.deps.json
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\bin\Debug\netcoreapp2.1\ReaderTextApp.runtimeconfig.json
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\bin\Debug\netcoreapp2.1\ReaderTextApp.runtimeconfig.dev.json
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\bin\Debug\netcoreapp2.1\ReaderTextApp.dll
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\bin\Debug\netcoreapp2.1\ReaderTextApp.pdb
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\obj\Debug\netcoreapp2.1\ReaderTextApp.csprojAssemblyReference.cache
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\obj\Debug\netcoreapp2.1\ReaderTextApp.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\obj\Debug\netcoreapp2.1\ReaderTextApp.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\obj\Debug\netcoreapp2.1\ReaderTextApp.AssemblyInfo.cs
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\obj\Debug\netcoreapp2.1\ReaderTextApp.dll
+C:\Users\Desarrollo\source\repos\ReaderTextApp\ReaderTextApp\obj\Debug\netcoreapp2.1\ReaderTextApp.pdb
